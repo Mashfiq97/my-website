@@ -9,3 +9,26 @@ body {
 footer {
 	margin: 50px 0;
 }
+
+#publications ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  #publications li {
+	margin-bottom: 20px;
+  }
+  
+  #publications li strong {
+	font-size: 1.2em;
+  }
+  
+  #publications a {
+	color: #007bff;
+	text-decoration: none;
+  }
+  
+  #publications a:hover {
+	text-decoration: underline;
+  }
+  
